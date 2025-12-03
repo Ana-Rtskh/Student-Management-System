@@ -1,0 +1,15 @@
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/bin/Debug/net7.0/Student_Management_System
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/bin/Debug/net7.0/Student_Management_System.deps.json
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/bin/Debug/net7.0/Student_Management_System.runtimeconfig.json
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/bin/Debug/net7.0/Student_Management_System.dll
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/bin/Debug/net7.0/Student_Management_System.pdb
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.csproj.AssemblyReference.cache
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.AssemblyInfoInputs.cache
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.AssemblyInfo.cs
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.csproj.CoreCompileInputs.cache
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.dll
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/refint/Student_Management_System.dll
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.pdb
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/Student_Management_System.genruntimeconfig.cache
+/Users/anartskhiladze/Projects/Student_Management_System/Student_Management_System/obj/Debug/net7.0/ref/Student_Management_System.dll
